@@ -19,7 +19,7 @@ User
 Test: When user inputs an numerical value for their age (in Earth years), the program should return 
 the equivalent to that age in X planet years for 4 planets (Mercury, Venus, Mars, and Jupiter). This number
 is rounded to the nearest tenth.
-  Ex:
+  Conversion:
   1 year Mercury = 0.24 years Earth
   1 year Venus = 0.62 years Earth
   1 year Mars = 1.88 years Earth
@@ -28,8 +28,10 @@ is rounded to the nearest tenth.
   Input: 2 Earth Years
   Output: Mercury Years = 8.34, Venus Years = 3.26, Mars Years = 1.06, Jupiter Years = 0.17
 
+<-------------------------------------------------------------------------------------------------------------
+
 When user inputs their age (in Earth years), the program will return the numbers of years the user
-  has left on X planet. The return number will be presented in that planets years. Life Expectancy 
+  has left on X planet. The return number will be converted and presented in that planet's years. Life Expectancy 
   will be calculated by (LIFE EXPECTANCY CALCULATOR).
 
 LIFE EXPECTANCY CALCULATOR
@@ -42,8 +44,8 @@ LIFE EXPECTANCY CALCULATOR
 
       Logic to determine expectancy includes:
       60 Earth years life expectancy = (Hard Drugs === Y)
-      70 Earth years life expectancy = (Exercise === Y || Ice Cream === Y || Hard Drugs === N)
-      80 Earth years life expectancy = (Exercise === Y || Ice Cream === N || Hard Drugs === N)
+      70 Earth years life expectancy = (Exercise === Y && Ice Cream === Y && Hard Drugs === N)
+      80 Earth years life expectancy = (Exercise === Y && Ice Cream === N && Hard Drugs === N)
 
 
 After c
