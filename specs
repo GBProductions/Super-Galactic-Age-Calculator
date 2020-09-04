@@ -30,19 +30,21 @@ When user inputs an numerical value for their age (in Earth years), the program 
   Output: Mercury = 0.48, Venus = 1.24, Mars = 3.76, Jupiter = 23.72
 
 When user inputs their age (in Earth years), the program will return the numbers of years the user
-  has left on X planet. The return number will be presented in that planets years. Life Expectancy will be calculated by (LIFE EXPECTANCY CALCULATOR).
+  has left on X planet. The return number will be presented in that planets years. Life Expectancy 
+  will be calculated by (LIFE EXPECTANCY CALCULATOR).
 
 LIFE EXPECTANCY CALCULATOR
-    When user answers three questions, the program will take the input and calculate their life expectancy for X planet (in that planet's years, rounded to the nearest tenth).
+    When user answers three questions, the program will take the input and calculate their life expectancy for X planet 
+    (in that planet's years, rounded to the nearest tenth).
       Questions include:
       1. Do you eat ice cream? (Y/N)
       2. Do you exercise? (Y/N)
       3. Do you use hard drugs? We promise we're cool, you can tell us. (Y/N)
 
       Logic to determine expectancy includes:
-      60 years life expectancy = (Hard Drugs === Y)
-      70 years life expectancy = (Exercise === Y || Ice Cream === Y || Hard Drugs === N)
-      80 years life expectancy = (Exercise === Y || Ice Cream === N || Hard Drugs === N)
+      60 Earth years life expectancy = (Hard Drugs === Y)
+      70 Earth years life expectancy = (Exercise === Y || Ice Cream === Y || Hard Drugs === N)
+      80 Earth years life expectancy = (Exercise === Y || Ice Cream === N || Hard Drugs === N)
 
 
 After c
