@@ -1,0 +1,19 @@
+SPECS
+
+When user inputs an numerical value for their age (in Earth years), the program should return the equivalent
+  to that age in X planet years for 5 planets (Mercury, Venus, Mars, and Jupiter).
+  Ex:
+  1 year Mercury = 0.24 years Earth
+  1 year Venus = 0.62 years Earth
+  1 year Mars = 1.88 years Earth
+  1 year Jupiter = 11.86 years Earth
+
+  Input: 2
+  Output: Mercury = 0.48, Venus = 1.24, Mars = 3.76, Jupiter = 23.72
+
+When user inputs their age (in Earth years), the program will return the numbers of years the user
+  has left on X planet. The return number will be presented in that planets years. Life Expectancy will be calculated by (LIFE EXPECTANCY CALCULATOR).
+
+
+
+
