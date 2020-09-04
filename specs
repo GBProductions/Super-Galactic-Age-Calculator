@@ -1,5 +1,8 @@
 SPECS
 
+
+Basic
+
 If a user enters something that is not a number into the input box, an error prompt will appear.
   Input: "Hello World!"
   Output: Alert: "Please enter a number!"
@@ -9,6 +12,13 @@ If a user does not answer the 3 LIFE EXPECTANCY CALCULATOR questions and insert 
   Input: "42" (No questions answered).
   Output: Alert: "Please answer all the questions!"
 
+
+
+
+
+
+
+User 
 
 When user inputs an numerical value for their age (in Earth years), the program should return the equivalent
   to that age in X planet years for 5 planets (Mercury, Venus, Mars, and Jupiter).
@@ -36,6 +46,8 @@ LIFE EXPECTANCY CALCULATOR
       70 years life expectancy = (Exercise === Y || Ice Cream === Y || Hard Drugs === N)
       80 years life expectancy = (Exercise === Y || Ice Cream === N || Hard Drugs === N)
 
+
+After c
       Input: Hard Drugs/Yes, 40 years
       Output: 83.3 years left on Mercury
       Input: Exercise/Yes, Ice Cream/Y, Hard Drugs/N, 40 years 
