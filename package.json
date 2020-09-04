@@ -1,0 +1,16 @@
+{
+  "name": "Week-5",
+  "version": "1.0.0",
+  "description": "#### _{Brief description of application}, 4th September 2020_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
