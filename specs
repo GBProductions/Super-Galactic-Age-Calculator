@@ -1,7 +1,7 @@
 SPECS
 
 
-/////////Basic
+Basic
 
 If a user enters something that is not a number into the input box, an error prompt will appear.
   Input: "Hello World!"
@@ -12,11 +12,9 @@ If a user does not answer the 3 LIFE EXPECTANCY CALCULATOR questions and insert 
   Input: "42" (No questions answered).
   Output: Alert: "Please answer all the questions!"
 
+<-------------------------------------------------------------------------------------------------------------
 
-
-
-
-///////User 
+User 
 
 When user inputs an numerical value for their age (in Earth years), the program should return the equivalent
   to that age in X planet years for 5 planets (Mercury, Venus, Mars, and Jupiter).
@@ -29,6 +27,7 @@ When user inputs an numerical value for their age (in Earth years), the program 
   Input: 2
   Output: Mercury = 0.48, Venus = 1.24, Mars = 3.76, Jupiter = 23.72
 
+<-------------------------------------------------------------------------------------------------------------
 When user inputs their age (in Earth years), the program will return the numbers of years the user
   has left on X planet. The return number will be presented in that planets years. Life Expectancy 
   will be calculated by (LIFE EXPECTANCY CALCULATOR).
