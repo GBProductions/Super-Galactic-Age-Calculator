@@ -14,6 +14,15 @@ When user inputs an numerical value for their age (in Earth years), the program 
 When user inputs their age (in Earth years), the program will return the numbers of years the user
   has left on X planet. The return number will be presented in that planets years. Life Expectancy will be calculated by (LIFE EXPECTANCY CALCULATOR).
 
+LIFE EXPECTANCY CALCULATOR
+When user answers three questions, the program will take the input and calculate their life expectancy for X planet (in Earth years).
+  Questions include:
+  1. Do you eat ice cream? (Y/N)
+  2. Do you exercise? (Y/N)
+  3. Do you use hard drugs? We promise we're cool, you can tell us. (Y/N)
 
+  60 years life expectancy = (Hard Drugs === Y)
+  70 years life expectancy = (Exercise === Y || Ice Cream === Y || Hard Drugs === N)
+  80 years life expectancy = (Exercise === Y || Ice Cream === N || Hard Drugs === N)
 
 
