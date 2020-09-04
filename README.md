@@ -1,26 +1,23 @@
-# _SAuper Galactic Age Calculator_
+# _Super Galactic Age Calculator_
 
-#### _{Brief description of application}, 4th September 2020_
+#### _4th September 2020_
 
-#### By _**{List of contributors}**_
+#### By _**Garrett Brown**_
 
 ## Description
-
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+Want to know how old you are on other planets in the solar system? Use this calculator. We can also tell you how much life you would expect to live on those planets based on personality questions. Absolutely scientifically accurate.
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
+* _Clone the "Programming-Language-Selector" repository from Github._
+* _Navigate to the root directory of the project in the terminal and type 'open index.html' to view project  in a browser._
 * _in a simple_
 * _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Open the project in text editor to view code._
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_Many bugs. Work in progress._
 
 ## Support and contact details
 
