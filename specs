@@ -1,5 +1,15 @@
 SPECS
 
+If a user enters something that is not a number into the input box, an error prompt will appear.
+  Input: "Hello World!"
+  Output: Alert: "Please enter a number!"
+
+If a user does not answer the 3 LIFE EXPECTANCY CALCULATOR questions and insert a valid number into the input box, 
+  an error alert will appear.
+  Input: "42" (No questions answered).
+  Output: Alert: "Please answer all the questions!"
+
+
 When user inputs an numerical value for their age (in Earth years), the program should return the equivalent
   to that age in X planet years for 5 planets (Mercury, Venus, Mars, and Jupiter).
   Ex:
