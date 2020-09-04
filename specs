@@ -17,7 +17,8 @@ Test: If a user does not answer the 3 LIFE EXPECTANCY CALCULATOR questions and i
 User 
 
 Test: When user inputs an numerical value for their age (in Earth years), the program should return 
-the equivalent to that age in X planet years for 4 planets (Mercury, Venus, Mars, and Jupiter).
+the equivalent to that age in X planet years for 4 planets (Mercury, Venus, Mars, and Jupiter). This number
+is rounded to the nearest tenth.
   Ex:
   1 year Mercury = 0.24 years Earth
   1 year Venus = 0.62 years Earth
