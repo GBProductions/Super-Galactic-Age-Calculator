@@ -48,7 +48,9 @@ LIFE EXPECTANCY CALCULATOR
       80 Earth years life expectancy = (Exercise === Y && Ice Cream === N && Hard Drugs === N)
 
 
-After c
+Test: user will input age and questions to determine LIFE EXPECTANCY CALCULATOR. Program will determine life expectancy in Earth years, and subtract lived age 
+  from life expectancy. That number will then be converted to notify user how many years they have left using various planet's year system .
+
       Input: Hard Drugs/Yes, 40 years
       Output: 83.3 years left on Mercury
       Input: Exercise/Yes, Ice Cream/Y, Hard Drugs/N, 40 years 
@@ -58,5 +60,13 @@ After c
       Input: Hard Drugs/Yes, 40 years
       Output: 1.7 years left on Jupiter
 
+<-------------------------------------------------------------------------------------------------------------
 
+Test: If person has surpassed their assigned life expectancy, return a negative number.
+  Input: (Hard Drugs/Yes) 70 years
+  Output: -10 Earth Years
+
+Test: If a negative number is returned, convert that and display time surpassed on other planets. 
+  Input: -10 Earth Years
+  Output: -41.67 Mercury Years
 
