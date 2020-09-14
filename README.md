@@ -1,6 +1,6 @@
 # _Super Galactic Age Calculator_
 
-#### _4th September 2020_
+#### _13th September 2020_
 
 #### By _**Garrett Brown**_
 
@@ -25,7 +25,7 @@ _For support, contact Garrett Brown <garrettpaulbrown@gmail.com>_
 
 ## Technologies Used
 
-_HTML, CSS, JavaScript, Bootstrap, jQuery_
+_HTML, CSS, JavaScript, Bootstrap, jQuery, Node Project Manager_
 
 ### License
 
